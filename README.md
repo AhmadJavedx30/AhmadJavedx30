@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad Javed</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk2YjliODgxNmQ5MGFjYjI5NjZjNDVkZTI5OWJmYTMxYjI2YzI1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
