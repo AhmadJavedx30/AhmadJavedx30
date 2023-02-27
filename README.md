@@ -5,7 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjavedx30&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadjavedx30" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🔭 I’m currently working on **Back End**
+
+- 🌱 I’m currently learning **Java**
+
+- 👯 I’m looking to collaborate on **PHP**
+
+- 💬 Ask me about **Html, CSS, Bootstrap, PHP**
 
 - 📫 How to reach me **muhammadahmad922003@gmail.com**
 
