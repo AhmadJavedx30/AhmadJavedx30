@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjavedx30&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadjavedx30" /> </p>
 
-- 🔭 I’m currently working on **Back End**
+- 🔭 I’m currently working on **Front End**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **PHP**
+- 👯 I’m looking to collaborate on **React**
 
-- 💬 Ask me about **Html, CSS, Bootstrap, PHP**
+- 💬 Ask me about **Html, CSS, Bootstrap, Java script, React**
 
 - 📫 How to reach me **muhammadahmad922003@gmail.com**
 
